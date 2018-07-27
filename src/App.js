@@ -4,13 +4,13 @@ import './App.css';
 
 class App extends Component {
 	constructor(props) {
-		super();
+		super(props);
 	}
   render() {
     return (
       <div className="App">
-        실행했다
-      </div>
+        실행했다ㄴㄴㄴ
+     </div>
     );
   }
 }
